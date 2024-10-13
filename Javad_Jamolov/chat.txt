@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I speak Uzbek, Russian, English, Japanese
 
+=======
+What languages ​​do you speak?
+>>>>>>> 32a8e521a0eeb4b5fda6f6ebafe5502cffeeb29c
